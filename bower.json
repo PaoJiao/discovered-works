@@ -1,0 +1,28 @@
+{
+  "name": "discovered-works",
+  "version": "1.0.0",
+  "authors": [
+    "iPaul <iPaul@localhost>"
+  ],
+  "description": "omg, love these works.",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "for",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "localhost",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iframe-resizer": "~2.8.9"
+  }
+}
